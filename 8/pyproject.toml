@@ -8,6 +8,7 @@ authors = ["exercise"]
 python = "^3.9"
 fastapi = "^0.111.1"
 uvicorn = "^0.30.3"
+pydantic = "1.*"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.3.2"
